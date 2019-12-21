@@ -32,16 +32,17 @@ make their lives much more exciting and ofcourse the most important, make ritch 
 
 ## Technologies used 🚩
 
+### Programming languages
 ```bash
-  ### Programming languages
   * HTML
   * CSS
   * JavaScript
   * C#
   * SQL (query language)
 ```
-```bash
+
   ### Libraries and Frameworks
+```bash
   * React
   * Redux
   * Entity framework
