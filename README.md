@@ -59,3 +59,6 @@ make their lives much more exciting and ofcourse the most important, make ritch 
     * master2 (react project for admins)
     * master3 ( web api)
 ```
+
+## Demo 🚩
+![Farmers Market Finder - Animated gif demo](PowerOfSignalR.gif)
