@@ -62,8 +62,18 @@ make their lives much more exciting and ofcourse the most important, make ritch 
 
 ## Demo 🚩
 
+### Admin actions
+
 ![Farmers Market Finder - Animated gif demo](AdminAction.gif)
+
+### Power of Signal R
 
 ![Farmers Market Finder - Animated gif demo](PowerOfSignalR.gif)
 
+### User actions
+
 ![Farmers Market Finder - Animated gif demo](UserActions.gif)
+
+### User sign up action
+
+![Farmers Market Finder - Animated gif demo](UserSignUp.gif)
