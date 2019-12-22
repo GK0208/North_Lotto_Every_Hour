@@ -61,4 +61,7 @@ make their lives much more exciting and ofcourse the most important, make ritch 
 ```
 
 ## Demo 🚩
+
+![Farmers Market Finder - Animated gif demo](AdminAction.gif)
 ![Farmers Market Finder - Animated gif demo](PowerOfSignalR.gif)
+![Farmers Market Finder - Animated gif demo](UserActions.gif)
