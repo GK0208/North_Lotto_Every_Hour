@@ -50,30 +50,21 @@ make their lives much more exciting and ofcourse the most important, make ritch 
   * ASP.NET Web API
   * Bootstrap
 ```
-## Git info 🚩
-
-```bash
-  This repository has 4 branches:
-    * master (empty branch)
-    * master1 (react project for users)
-    * master2 (react project for admins)
-    * master3 ( web api)
-```
 
 ## Demo 🚩
 
 ### Admin actions
 
-![Farmers Market Finder - Animated gif demo](AdminAction.gif)
+![Farmers Market Finder - Animated gif demo](Gifs/AdminAction.gif)
 
 ### Power of Signal R
 
-![Farmers Market Finder - Animated gif demo](PowerOfSignalR.gif)
+![Farmers Market Finder - Animated gif demo](Gifs/PowerOfSignalR.gif)
 
 ### User actions
 
-![Farmers Market Finder - Animated gif demo](UserActions.gif)
+![Farmers Market Finder - Animated gif demo](Gifs/UserActions.gif)
 
 ### User sign up action
 
-![Farmers Market Finder - Animated gif demo](UserSignUp.gif)
+![Farmers Market Finder - Animated gif demo](Gifs/UserSignUp.gif)
