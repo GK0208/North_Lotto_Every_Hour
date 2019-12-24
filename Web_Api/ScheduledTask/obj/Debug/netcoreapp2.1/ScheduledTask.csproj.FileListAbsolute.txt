@@ -1,0 +1,34 @@
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.deps.json
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.runtimeconfig.json
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.runtimeconfig.dev.json
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csproj.CopyComplete
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.deps.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.runtimeconfig.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.runtimeconfig.dev.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\ScheduledTask.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.csproj.CopyComplete
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\ScheduledTask\obj\Debug\netcoreapp2.1\ScheduledTask.pdb

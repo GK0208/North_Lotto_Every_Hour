@@ -1,0 +1,40 @@
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\source\repos\Lotto\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json

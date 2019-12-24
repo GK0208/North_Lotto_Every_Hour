@@ -1,0 +1,10 @@
+export const SUCCESS_MESSAGE = 'SUCCESS_MESSAGE';
+export const REQUEST_USER_LOGIN = 'REQUEST_USER_LOGIN';
+export const ERROR_MESSAGE = "ERROR_MESSAGE";
+export const RESTORE = "RESTORE";
+export const GET_USERS= "GET_USERS"
+export const GET_ADMIN_SESSIONS = 'GET_ADMIN_SESSIONS';
+export const GET_WINNERS = 'GET_WINNERS';
+export const LOGIN_ADMIN = "LOGIN_ADMIN";
+export const LOGOUT_ADMIN = "LOGOUT_ADMIN";
+export const SIGN_UP_SUCCESS = "SIGN_UP_SUCCESS";

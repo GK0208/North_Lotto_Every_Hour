@@ -1,0 +1,32 @@
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\bin\Debug\netcoreapp2.1\DataModel.deps.json
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfo.cs
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\source\repos\Lotto\DataModel\obj\Debug\netcoreapp2.1\DataModel.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.deps.json
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Goce.Kabov\Documents\GitHub\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.csproj.CopyComplete
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.deps.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.AssemblyInfo.cs
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.dll
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.pdb
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.runtimeconfig.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\bin\Debug\netcoreapp2.1\DataModel.runtimeconfig.dev.json
+C:\Users\Goce.Kabov\Desktop\Lotto SEDC Projcet\Web Api\LottoWebApi\DataModel\obj\Debug\netcoreapp2.1\DataModel.csprojAssemblyReference.cache
